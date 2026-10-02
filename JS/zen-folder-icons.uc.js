@@ -129,3 +129,4 @@
     else if (++tries > 60) { clearInterval(wait); console.warn("[folder-icons] panneau introuvable"); }
   }, 500);
 })();
+
