@@ -1,0 +1,13 @@
+/* Folder Custom Icons : n'affiche que l'icône choisie, sans la forme du dossier */
+zen-folder .tab-group-folder-icon .back,
+zen-folder .tab-group-folder-icon .front,
+zen-folder .tab-group-folder-icon .dots {
+  display: none !important;
+}
+
+zen-folder .tab-group-folder-icon g.icon image {
+  transform-box: fill-box;
+  transform-origin: center;
+  transform: translate(var(--azt-dx, 0px), var(--azt-dy, 0px)) scale(var(--azt-scale, 1.6)) !important;
+  opacity: var(--azt-opacity, 1) !important;
+}
