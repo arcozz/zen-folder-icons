@@ -1,4 +1,17 @@
 {
+  "id": "zen-folder-custom-icons",
+  "name": "Folder Custom Icons",
+  "description": "Affiche uniquement l'icône des dossiers (sans la forme du dossier) et permet d'ajouter ses propres images par URL, avec une galerie « Mes images » dans le sélecteur d'icônes.",
+  "homepage": "https://github.com/arcozz/zen-folder-icons",
+  "style": "chrome.css",
+  "readme": "https://raw.githubusercontent.com/arcozz/zen-folder-icons/main/README.md",
+  "author": "arcozz",
+  "version": "1.0.0",
+  "tags": ["folders", "icons", "sidebar"],
+  "createdAt": "2026-10-02",
+  "updatedAt": "2026-10-02"
+}
+{
 {
   "id": "zen-folder-custom-icons",
   "name": "Folder Custom Icons",
